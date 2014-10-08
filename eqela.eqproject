@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# MultipleScenes
+#
+
+projectname: MultipleScenes
+vendorid: com.multscenes
+mainmodule: com.multscenes.multiplescenes
